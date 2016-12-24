@@ -7,15 +7,15 @@ permalink:           pretty
 title:               Z
 tagline:             'Be the change you want to see in the world.'
 description:         'Be the change you want to see in the world.'
-url:                 http://xiongzh.com
-baseurl:             'http://xiongzh.com'
+url:                 http://shawlyn-chen.com
+baseurl:             'http://shawlyn-chen.com'
 paginate:            5
 
 # About/contact
 author:
-  name:              Zhen XIONG
-  url:               http://xiongzh.com
-  email:             837075787@qq.com
+  name:              Shawlyn Chen
+  url:               http://shawlyn-chen.com
+  email:             
 
 # Custom vars
 version:             1.0.0
