@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merry Christmas: Jingle Bells
+title: Merry Christmas Jingle Bells
 ---
 
 
