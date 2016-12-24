@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               Shawlyn Chen
-tagline:             'tagline'
-description:         'description'
+tagline:             ''
+description:         'Shawlyn Chen'
 url:                 http://shawlyn-chen.com
 baseurl:             'http://shawlyn-chen.com'
 paginate:            5
